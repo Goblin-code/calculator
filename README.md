@@ -4,7 +4,8 @@ The Calculator is a web-based application developed using HTML, CSS, and JavaScr
 
 ## Live Demo
 
-Live Demo: 
+Live Demo: https://goblin-code.github.io/calculator/
+
 ## Features
 
 - **User-Friendly Interface:** The calculator boasts an intuitive and easy-to-use interface, making it accessible for users of all skill levels.
